@@ -68,7 +68,7 @@ Name:
 
 		int num = 0;
 
-		cout << endl << "Please type a name: ";
+		cout << endl << "Please enter a name: ";
 		getline (cin, name);
 		rand_num = rand()%44;
 		
